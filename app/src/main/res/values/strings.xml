@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NorrisApplication</string>
+    <string name="get_categories_error">Unable to find categories</string>
+    <string name="get_joke_error">Could not find the joke</string>
+    <string name="url_link">Click here to see more jokes from this category</string>
+    <string name="categories_list_title">Joke Categories</string>
+</resources>
